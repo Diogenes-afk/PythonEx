@@ -1,2 +1,2 @@
 # PythonEx
-Exercícios em Python derivados do curso via Udemy
+Exercícios iniciais em Python derivados de um curso via Udemy
